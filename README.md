@@ -11,3 +11,5 @@ To run it, you need to cd into this folder, and then follow steps on the Flask I
 $ export FLASK_APP=flask_local.py
 $ flask run
 ```
+
+Flask Installation page: https://flask.palletsprojects.com/en/0.12.x/installation/
