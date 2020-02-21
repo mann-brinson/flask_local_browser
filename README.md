@@ -5,5 +5,7 @@ basic flask app pointed to local directory
 
 To run it, you need to cd into this folder, and then follow steps on the Flask Installation page to set up venv, activate venv, and install flask on the venv. Then start the flask server (commands below) and go to localhost:5000 to navigate your directories. Screenshots below for reference.
  
-(venv) $ export FLASK_APP=flask_local.py
-(venv) $ flask run
+```
+$ export FLASK_APP=flask_local.py
+$ flask run
+```
